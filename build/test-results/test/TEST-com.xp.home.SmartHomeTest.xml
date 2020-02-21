@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.xp.home.SmartHomeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-21T03:25:33" hostname="rfangs-MBP-15" time="0.255">
+<testsuite name="com.xp.home.SmartHomeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-21T07:28:37" hostname="rfangs-MBP-15" time="0.267">
   <properties/>
-  <testcase name="givenSwitchIsOn_whenRun_bulbTurnsOn2" classname="com.xp.home.SmartHomeTest" time="0.255"/>
+  <testcase name="givenSwitchIsOn_whenRun_bulbTurnsOn" classname="com.xp.home.SmartHomeTest" time="0.002"/>
+  <testcase name="givenSwitchIsOn_whenRun_bulbTurnsOn2" classname="com.xp.home.SmartHomeTest" time="0.265"/>
+  <testcase name="givenSwitchIsOff_whenRun_bulbTurnsOff" classname="com.xp.home.SmartHomeTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

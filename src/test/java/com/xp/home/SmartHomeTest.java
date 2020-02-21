@@ -81,6 +81,8 @@ public class SmartHomeTest {
 
         verify(bulbMock).turnOn();
 
+        verify(bulbMock,never()).turnOff();
+
     }
 
 
